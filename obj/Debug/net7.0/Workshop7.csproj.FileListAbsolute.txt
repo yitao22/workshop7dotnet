@@ -1,0 +1,15 @@
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\bin\Debug\net7.0\Workshop7.exe
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\bin\Debug\net7.0\Workshop7.deps.json
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\bin\Debug\net7.0\Workshop7.runtimeconfig.json
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\bin\Debug\net7.0\Workshop7.dll
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\bin\Debug\net7.0\Workshop7.pdb
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.csproj.AssemblyReference.cache
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.AssemblyInfoInputs.cache
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.AssemblyInfo.cs
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.csproj.CoreCompileInputs.cache
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.dll
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\refint\Workshop7.dll
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.pdb
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\Workshop7.genruntimeconfig.cache
+C:\Users\Yitao-02\OneDrive - A STAR\Desktop\DevSecOps Course\Projects\workshop7dotnet\obj\Debug\net7.0\ref\Workshop7.dll
